@@ -10,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: updatemanager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-02 09:16+0200\n"
-"PO-Revision-Date: 2016-06-02 07:10+0000\n"
-"Last-Translator: Arjen Balfoort <schoelje@solydxk.com>\n"
+"POT-Creation-Date: 2016-06-09 11:29+0200\n"
+"PO-Revision-Date: 2016-06-08 19:58+0000\n"
+"Last-Translator: Franco Frolloni <frolloni@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/solydxk/updatemanager/"
 "language/it/)\n"
 "Language: it\n"
@@ -352,7 +352,7 @@ msgstr "Comando in esecuzione"
 msgid "Warning"
 msgstr "Avviso"
 
-#: ../usr/lib/solydxk/updatemanager/umglobal.py:404
+#: ../usr/lib/solydxk/updatemanager/umglobal.py:410
 #: ../usr/lib/solydxk/updatemanager/main.py:84
 msgid "Please enter your password"
 msgstr "Per favore, digitare la password per avviare il gestore aggiornamenti"
@@ -436,7 +436,7 @@ msgid ""
 "our forum: https://forums.solydxk.com"
 msgstr ""
 "Ci sono aggiornamenti disponibili. In caso di problemi visita il nostro "
-"orum: https://forums.solydxk.com"
+"forum: https://forums.solydxk.com"
 
 #: en/uptodate.html+html.body.h1:8
 msgid "Up to date"
